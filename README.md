@@ -33,7 +33,7 @@ Under the guidance of **Mrs. V. Anusha**, Assistant Professor, ECE Dept.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Implements IDLE, SETUP, ACCESS states as per AMBA APB protocol
 - Synchronized with rising edge of `PCLK`
